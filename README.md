@@ -1,5 +1,7 @@
 # React + Vite
 
+Notes App Preview Link -  https://suryapratapsingh2027-collab.github.io/notesapp/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
